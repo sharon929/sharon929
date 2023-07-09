@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sharon
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning hacking,software development,web development, etc...
+- 🌱 I’m currently learning hacking,software development,ML, etc...
 - 📫 Reach me on sharonchristin929@gmail.com
 
 <!---
